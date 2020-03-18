@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: cornflowerblue;
+}
+
+h2{
+  color: cornflowerblue;
+}
+
+p {
+  margin: 0;
+}
+
+.header {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.recent {
+  font-weight: lighter;
+  font-size: smaller;
+}
+
+.experience {
+  font-size: smaller;
+}
+
+.education {
+  font-size: smaller;
+}
+
+.references {
+  color: cornflowerblue;
+}
+
+.emphasis {
+  color: cornflowerblue;
+}
